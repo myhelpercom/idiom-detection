@@ -10,7 +10,7 @@ Finds whether the given string is a Chinese Idiom.
 
 
 
-Source of Chinese Idioms: [Idiom Dictionary](http://hkdic.my-helper.com/)
+Source of Chinese Idioms: [Chinese Idiom Dictionary](http://hkdic.my-helper.com/)
 
 
 
