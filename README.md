@@ -10,7 +10,7 @@ Finds whether the given string is a Chinese Idiom.
 
 
 
-Source of Chinese Idioms: [Chinese Idiom Dictionary](http://dict.my-helper.com/)
+Source of Chinese Idioms: [Chinese Idiom Dictionary](https://dict.my-helper.com/)
 
 
 
@@ -26,5 +26,5 @@ is_idiom($string) : bool
 
 
 
-成語來源：[成語字典](http://dict.my-helper.com/)
+成語來源：[成語字典](https://dict.my-helper.com/)
 
